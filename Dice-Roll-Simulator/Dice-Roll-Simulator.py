@@ -52,7 +52,7 @@ def main():
         if Meanu != "5":
             print(Action(Meanu))
         else:
-            print("Thanks for playing")
+            print("Thanks for playing\n")
             return
 
 
